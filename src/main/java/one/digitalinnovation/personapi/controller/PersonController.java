@@ -22,7 +22,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/v1/people")
+@RequestMapping("/api/v2/people")
 @AllArgsConstructor(onConstructor = @__(@Autowired))
 public class PersonController {
 
