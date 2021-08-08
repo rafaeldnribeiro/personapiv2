@@ -12,10 +12,6 @@ Pré-requisitos para a execução do projeto:
 
 _Implementado documentação Swagger_
 _Implementado Classe para adicionar Veiculos_
-(A ideia é desenvolver um sistema de controle de entrada e saida 
-de pedetres e motoristas em uma organização.
-A tabela carro é atribuida a tabela pessoa, porem pode ser nula, se cadastrado o carro, 
-deverá receber uma placa marca e modelo, a placa foi definida para ser um valor único.)
 
 _Implementação para persistir data e hora de entrada e saida em breve_
 
